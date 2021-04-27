@@ -1,0 +1,106 @@
+.c1{
+    margin: 10px;
+    border: 5px solid red;
+    top:30%;
+    width:24%;
+    padding: 30px;
+    background-image:url(s1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100%;
+    border-left: dashed yellow;
+    border-right: dashed yellow;
+    border-top: dashed yellow;
+    border-bottom: dashed yellow;
+ }
+ .c2{
+    position:absolute;
+    left:55%;
+    top:10%;
+    width:40%;
+    border:10px solid black;
+    padding:30px;
+    border-radius: 90px;
+    background-image:url(w11.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100%;
+    color:darkyellow;
+ }
+ .c3{
+    position:absolute;
+    top:48%;
+    width:48%;
+    padding:20px;
+    height:35%;
+    background-image:url(s1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100%;
+ }
+ input[type="login with Facebook"]{
+    background-color:rgba(255,0,0,0.2);
+    color:yellow;
+    position:absolute;
+    left:60%;
+    top:50%;
+    text-align:center;
+    color:red;
+    }
+    img{
+    position:absolute;
+    left:60%;
+    top:50%;
+    width:20px;
+    height:20px;
+    }
+    input[type="login with google+"]{
+       background-color:rgba(255,0,0,0.2);
+       color:yellow;
+       position:absolute;
+       left:60%;
+       top:40%;
+       text-align:center;
+       color:red;
+       }
+       img{
+       position:absolute;
+       left:60%;
+       top:40%;
+       width:20px;
+       height:20px;
+       }
+       input[type="login with LinkedIn"]{
+          background-color:rgba(255,0,0,0.2);
+          color:yellow;
+          position:absolute;
+          left:60%;
+          top:70%;
+          text-align:center;
+          color:red;
+          }
+          img{
+          position:absolute;
+          left:60%;
+          top:70%;
+          width:20px;
+          height:20px;
+          }
+          input[type="login with Twitter"]{
+             background-color:rgba(255,0,0,0.2);
+             color:yellow;
+             position:absolute;
+             left:60%;
+             top:80%;
+             text-align:center;
+             color:red;
+             }
+             img{
+             position:absolute;
+             border-radius:60px;
+             left:60%;
+             top:80%;
+             width:20px;
+             height:20px;
+             }
+    
